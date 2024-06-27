@@ -2,7 +2,6 @@ import pygame, sys, random
 from data.scripts.dino import *
 from data.scripts.enemies import  *
 
-#hello therre
 class Game:
     def __init__(self):
         pygame.init()
